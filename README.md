@@ -6,7 +6,7 @@ As is seen in the image below, the Urban city type had the highest percentage of
 
  ![](analysis/Fig7.png)
  ---
- In terms of fare, the average fare per city for rural areas is higher as well as the average fare per driver for rural areas. This is due to the quantity of drivers being lower in rural areas as well as the higher cost of travel.
+ In terms of fare, the average fare per city for rural areas is higher as well as the average fare per driver for rural areas. This is likely due to the quantity of drivers being lower in rural areas as well as the higher cost of travel.
  ![](analysis/Fig3.png)
 # Summary DataFrame
 From the summary dataframe, we can see that the total volume of rides and consequently the total fare value was higher in the urban city type. However, the average fare per ride was lower in these Urban areas, likely due to a shift in the quantity supplied. Therefore, the average fare per driver was noticeably lower. We can also see that the total number of drivers is larger than the total number of rides, which results in the average fare per driver being lower than the average fare per ride for urban cities.
