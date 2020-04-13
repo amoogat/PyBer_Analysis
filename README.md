@@ -1,5 +1,5 @@
 # PyBer_Analysis
-Uses pandas to parse through data about cities, drivers, and riders in order to extract and organize data. Uses matplotlib to construct charts.
+Uses pandas to parse through data about cities (urban/ suburban/ rural), drivers, and riders in order to extract and organize data. Analysis includes (by city type): average fare per ride/ driver/ city, % of total fares/ rides/ drivers, and average fares per week. Uses matplotlib to load data into charts based on groupings.
 ## Resources
 Resources included data about drivers and ride-id's. 
 - <Resources/city_data.csv>
