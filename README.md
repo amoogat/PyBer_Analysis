@@ -8,7 +8,7 @@ Resources included data about drivers and ride-id's.
 
 As is seen in the image below, the Urban city type has the highest percentage of total rides out of the three city types. They also have the highest number of drivers, and the highest average number of drivers per city.
 
- ![](analysis/Fig7.png)
+ ![](analysis/Fig6.png)
  ---
  In rural areas, the average fare per city and the average fare per driver are both higher. It is likely that due to the potential of driving long distances in sparsely populated areas, the quantity of drivers in rural areas is lower and the cost of travel is raised.   
     ![](analysis/Fig3.png)
