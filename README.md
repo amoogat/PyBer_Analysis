@@ -1,5 +1,9 @@
 # PyBer_Analysis
 Uses pandas to parse through data about cities, drivers, and riders in order to extract and organize data. Uses matplotlib to construct charts.
+## Resources
+Resources included data about drivers and ride-id's. 
+- <Resources/city_data.csv>
+- <Resources/ride_data.csv>
 ## Discoveries
 
 As is seen in the image below, the Urban city type has the highest percentage of total rides out of the three city types. They also have the highest number of drivers, and the highest average number of drivers per city.
